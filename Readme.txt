@@ -1,0 +1,4 @@
+- First Git clone from following URL: https://github.com/Hiteshphp/tatvasoft.git
+- Rename folder name to "event"
+- Take checkout from "event_development" branch
+- Create Database with name "event_db" and import db from root/Database/event_db.sql file
